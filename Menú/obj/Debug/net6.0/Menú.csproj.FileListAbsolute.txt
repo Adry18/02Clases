@@ -1,0 +1,15 @@
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\bin\Debug\net6.0\Menú.exe
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\bin\Debug\net6.0\Menú.deps.json
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\bin\Debug\net6.0\Menú.runtimeconfig.json
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\bin\Debug\net6.0\Menú.dll
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\bin\Debug\net6.0\Menú.pdb
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.csproj.AssemblyReference.cache
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.GeneratedMSBuildEditorConfig.editorconfig
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.AssemblyInfoInputs.cache
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.AssemblyInfo.cs
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.csproj.CoreCompileInputs.cache
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.dll
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\refint\Menú.dll
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.pdb
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\Menú.genruntimeconfig.cache
+G:\DAM 2\Interfaces\Ejercicios POO\Menú\obj\Debug\net6.0\ref\Menú.dll
